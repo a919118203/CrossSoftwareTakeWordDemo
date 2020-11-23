@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CrossSoftwareTakeWord</string>
+    <string name="open_take_word">打开跨软件取词</string>
+    <string name="close_take_word">关闭跨软件取词</string>
+
+    <string name="float_activity_task">com.example.crossoftwaretakeword.floatactivitytask</string>
+    <string name="ocr">初始化ocr词典</string>
+</resources>
