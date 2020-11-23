@@ -1,5 +1,5 @@
 # 介绍：
-通过悬浮窗+tess-two实现获取其他App界面上的文本内容(https://github.com/rmtheis/tess-two)
+通过悬浮窗 + 截图 + tess-two实现获取其他App界面上的文本内容(https://github.com/rmtheis/tess-two)
 
 # 使用：
 初始化ocr词典文件<br>
